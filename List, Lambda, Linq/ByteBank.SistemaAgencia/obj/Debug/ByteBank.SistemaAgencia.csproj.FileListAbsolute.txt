@@ -1,0 +1,20 @@
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\Arrays e tipos genéricos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\List, Lambda, Linq\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

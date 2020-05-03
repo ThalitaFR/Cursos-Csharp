@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.exe
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.deps.json
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.json
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\Usuario\source\repos\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.deps.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.runtimeconfig.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\Introdução à Orientação a Objetos\01-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.pdb

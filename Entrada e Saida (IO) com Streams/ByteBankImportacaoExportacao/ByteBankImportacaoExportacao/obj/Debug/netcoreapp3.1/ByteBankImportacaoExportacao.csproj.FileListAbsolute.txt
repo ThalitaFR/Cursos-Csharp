@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.exe
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.deps.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Users\Usuario\Desktop\Aprendendendo C#\Entrada e Saida (IO) com Streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
